@@ -15,6 +15,7 @@ You can login by Admin or like simple user. By Admin you can add category and ad
 ### [Heroku Link](https://plantshop-web-final.herokuapp.com/)
 
 Admin: emirlan@gmail.com
+
 Password: 123
 
 ![](https://user-images.githubusercontent.com/81027613/171627028-d32770b0-ff28-4f7e-a979-d6d82e5a4fed.png)
